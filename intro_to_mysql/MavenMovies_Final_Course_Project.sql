@@ -4,6 +4,8 @@ Please send over the managers’ names at each store, with the full address
 of each property (street address, district, city, and country please).  
 */ 
 
+SELECT
+
 
 
 
